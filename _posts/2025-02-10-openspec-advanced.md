@@ -135,8 +135,8 @@ interface UserProfile {
 - `PUT /api/users/:id/profile` - 更新资料
 
 ## 相关变更
-- [change-001-用户系统](changes/_archived/change-001-user-system/)
-- [change-003-资料编辑](changes/_archived/change-003-profile-edit/)
+- change-001-用户系统
+- change-003-资料编辑
 ```
 
 ### 2. 变更规范的设计原则
